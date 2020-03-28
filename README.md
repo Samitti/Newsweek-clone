@@ -1,2 +1,1 @@
-# samuelteweldebrhan-gmail.com
-Newsweek-clone
+# Newsweek-clone
