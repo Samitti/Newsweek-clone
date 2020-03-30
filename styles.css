@@ -6,20 +6,27 @@
   width: 25px;
 }
 
-#arrow {
-    width: 7px;
-}
-
 .brand svg {
   fill: white;
 }
 
-nav ul li a {
+.nav-white {
+  width: 100%;
+  display: flex;
+  justify-content: space-between; 
+}
+
+.nav-white .v-bar {
+ border-right: 1px solid #cecdcd;
+ color: white;
+}
+
+.nav-white a {
   text-decoration: none;
   color: black;
 }
 
-nav ul li a:hover {
+.nav-white a:hover {
   text-decoration: none;
   color: #f72210;
 }
