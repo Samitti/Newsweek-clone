@@ -1,0 +1,25 @@
+.red-nav {
+  background-color: #f72210;
+}
+
+.weather img {
+  width: 25px;
+}
+
+#arrow {
+    width: 7px;
+}
+
+.brand svg {
+  fill: white;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li a:hover {
+  text-decoration: none;
+  color: #f72210;
+}
