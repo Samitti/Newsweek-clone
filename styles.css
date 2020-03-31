@@ -2,6 +2,10 @@
   background-color: #f72210;
 }
 
+nav .right-button {
+  margin-right: -12px;
+}
+
 .weather img {
   width: 25px;
 }
