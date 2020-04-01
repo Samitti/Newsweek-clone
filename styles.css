@@ -30,9 +30,141 @@ nav .right-button {
   color: black;
 }
 
+.img-lg {
+  width: 100%;
+}
+
+.red-under1 {
+  color: black;
+  font-size: larger;
+}
+
+.insight-tx {
+  width: 170px;
+  position: relative;
+  top: -23px;
+}
+
+.story-tx {
+  width: 60px;
+  color: #f72210;
+  text-align: center;
+  position: relative;
+  top: -23px;
+}
+
+.travel-tx {
+  font-size: small;
+  width: 50px;
+  color: #474747;
+  background-color: gray;
+  text-align: center;
+  position: relative;
+  top: -19px;
+}
+
+.travel-tx2 {
+  font-size: 20px;
+  line-height: 0em;
+  text-decoration: none;
+  color: #474747;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.more-stories .red-under1 {
+  color: black;
+  font-size: large;
+  line-height: 0em;
+} 
+
+.opinion .img-rd .img-rd-container {
+  width: 75px;
+  height: 75px;
+}
+
+.opinion .img-rd {
+  width: 75px;
+  height: 75px;
+}
+
+.red-under2 {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.op-uthor {
+  font-size: 12px;
+}
+
+.img-debate {
+  width: 100px;
+  height: 100px;
+}
+
+.img-debate-rd {
+  margin-top: -30px;
+}
+
+.debate-bt-bd1 {
+  border-bottom:3px solid rgb(228, 225, 225);
+  border-top: 5px solid #f72210;
+}
+
+.debate-bt-bd2 {
+  border-top: 5px solid #104ef7;
+}
+
+.c-vs {
+  font-size: large;
+  width:40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: black;
+  text-align: center;
+  padding-top: 5px;
+  margin: auto;
+}
+
+.opinion .img-rd:hover {
+  cursor: pointer;
+}
+
+.red-under2:hover {
+  text-decoration: none;
+  color: #f72210;
+}
+
+.the-debate .red-under2:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.travel-tx2:hover {
+  text-decoration: none;
+  color: #474747;
+}
+
+.img-lg:hover {
+  cursor: pointer;
+}
+
+.red-under1:hover {
+  color: black;
+  text-decoration: underline solid #f72210;
+}
+
 .nav-white a:hover {
   text-decoration: none;
   color: #f72210;
 }
+
+/* @lager screen */
+
+/* .culture-travel {
+  margin-top: -1200px;
+} */
+
+/* @lager screen */
 
 
