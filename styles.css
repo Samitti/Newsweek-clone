@@ -160,6 +160,41 @@ nav .right-button {
   color: #f72210;
 }
 
+.social-footer i {
+  font-size: 30px;
+  color: #6e6d6d;
+  padding: 0 5px 0 5px;
+}
+
+footer .copyright {
+  font-size: 13px;
+  color: rgb(78, 78, 78);
+}
+
+.nav-footer a {
+  text-decoration: none;
+  color: rgb(78, 78, 78);
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-bottom: 5px;
+}
+
+.nav-footer .v-bar {
+  border-right: 1px solid #cecdcd;
+  color: white;
+  font-size: smaller;
+  margin-right: 2px;
+  margin-bottom: 5px;
+ }
+
+ .nav-footer a:hover {
+   color: black;
+ }
+
+.social-footer i:hover {
+  color: #104ef7;
+}
+
 .opinion .img-rd:hover {
   cursor: pointer;
 }
