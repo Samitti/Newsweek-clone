@@ -112,6 +112,7 @@ nav .right-button {
 }
 
 .debate-bt-bd2 {
+  border-bottom:3px solid rgb(228, 225, 225);
   border-top: 5px solid #104ef7;
 }
 
@@ -124,6 +125,16 @@ nav .right-button {
   text-align: center;
   padding-top: 5px;
   margin: auto;
+}
+
+.the-magazine-h5 {
+  margin-left: 40%;
+}
+
+.editors-tx {
+  width: 80px;
+  position: relative;
+  top: -23px;
 }
 
 .opinion .img-rd:hover {
