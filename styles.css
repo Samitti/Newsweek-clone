@@ -116,6 +116,11 @@ nav .right-button {
   border-top: 5px solid #104ef7;
 }
 
+.logo-bd {
+  border-bottom: 3px solid #d32212;
+  border-right: 3px solid #d32212;
+}
+
 .c-vs {
   font-size: large;
   width:40px;
@@ -135,6 +140,24 @@ nav .right-button {
   width: 80px;
   position: relative;
   top: -23px;
+}
+
+.slide-heading {
+  font-size: 25px;
+}
+
+#img-sub {
+  margin-top: -210px;
+  margin-left: 70px;
+}
+
+.news-letter-img {
+  width: 180px;
+  height: 250px;
+}
+
+.footer-logo .brand svg {
+  color: #f72210;
 }
 
 .opinion .img-rd:hover {
