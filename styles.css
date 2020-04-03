@@ -14,6 +14,10 @@ nav .right-button {
   fill: white;
 }
 
+.brand1 svg {
+  fill: #f72210;
+}
+
 .nav-white {
   width: 100%;
   display: flex;
@@ -185,6 +189,7 @@ footer .copyright {
   font-size: smaller;
   margin-right: 2px;
   margin-bottom: 5px;
+  height: 15px;
  }
 
  .nav-footer a:hover {
