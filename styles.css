@@ -21,12 +21,12 @@ nav .right-button {
 .nav-white {
   width: 100%;
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
 }
 
 .nav-white .v-bar {
- border-right: 1px solid #cecdcd;
- color: white;
+  border-right: 1px solid #cecdcd;
+  color: white;
 }
 
 .nav-white a {
@@ -79,7 +79,7 @@ nav .right-button {
   color: black;
   font-size: large;
   line-height: 0em;
-} 
+}
 
 .opinion .img-rd .img-rd-container {
   width: 75px;
@@ -113,12 +113,12 @@ nav .right-button {
 }
 
 .debate-bt-bd1 {
-  border-bottom:3px solid rgb(228, 225, 225);
+  border-bottom: 3px solid rgb(228, 225, 225);
   border-top: 5px solid #f72210;
 }
 
 .debate-bt-bd2 {
-  border-bottom:3px solid rgb(228, 225, 225);
+  border-bottom: 3px solid rgb(228, 225, 225);
   border-top: 5px solid #104ef7;
 }
 
@@ -129,7 +129,7 @@ nav .right-button {
 
 .c-vs {
   font-size: large;
-  width:40px;
+  width: 40px;
   height: 40px;
   border-radius: 50%;
   background-color: black;
@@ -197,11 +197,11 @@ footer .copyright {
   margin-right: 2px;
   margin-bottom: 5px;
   height: 15px;
- }
+}
 
- .nav-footer a:hover {
-   color: black;
- }
+.nav-footer a:hover {
+  color: black;
+}
 
 .social-footer i:hover {
   color: #104ef7;
@@ -239,13 +239,3 @@ footer .copyright {
   text-decoration: none;
   color: #f72210;
 }
-
-/* @lager screen */
-
-/* .culture-travel {
-  margin-top: -1200px;
-} */
-
-/* @lager screen */
-
-
