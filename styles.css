@@ -69,7 +69,7 @@ nav .right-button {
 
 .travel-tx2 {
   font-size: 20px;
-  line-height: 0em;
+  line-height: 0;
   text-decoration: none;
   color: #474747;
   font-family: 'Times New Roman', Times, serif;
@@ -78,7 +78,7 @@ nav .right-button {
 .more-stories .red-under1 {
   color: black;
   font-size: large;
-  line-height: 0em;
+  line-height: 0;
 }
 
 .opinion .img-rd .img-rd-container {
